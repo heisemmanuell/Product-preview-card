@@ -8,8 +8,8 @@ body{
 }
 
 .images {
-    background-image: url('/images/image-product-desktop.jpg');
-    height: 415px;
+    background-image: url('./images/image-product-desktop.jpg');
+    height: 420px;
     width: 290px;
     border-radius: 0.7rem 0 0 0.7rem;
     background-size: cover;
@@ -22,7 +22,7 @@ body{
   }
 
   .images {
-    background-image: url('/images/image-product-mobile.jpg');
+    background-image: url('./images/image-product-mobile.jpg');
     width: 100%;
     border-radius: 0.7rem 0.7rem 0 0;
     height: 30vh;
